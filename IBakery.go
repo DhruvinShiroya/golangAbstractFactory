@@ -1,4 +1,4 @@
-package abstractfactory 
+package github.com/DhruvinShiroya/golangAbstractFactory
 
 import "fmt"
 
