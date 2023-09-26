@@ -1,4 +1,4 @@
-package github.com/DhruvinShiroya/golangAbstractFactory
+package golangAbstractFactory
 
 type iPastry interface {
   setCategory(f string)
